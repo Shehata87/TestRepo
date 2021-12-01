@@ -3,4 +3,4 @@ Test
 Test der Anbindung zu Polarion 
 Implementation Task ist erledigt
 
-EGOP-558
+----
